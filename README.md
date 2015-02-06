@@ -1,0 +1,2 @@
+# project
+mips_32
